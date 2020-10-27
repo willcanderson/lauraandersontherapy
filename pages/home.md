@@ -6,6 +6,12 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+intro:
+  eyebrow: 'Digital Marketing is our'
+  main: 'Bread & Butter'
+  summary: 'Let us help you create the perfect campaign with our multi-faceted team of talented creatives.'
+  buttonText: 'See our work'
+  buttonUrl: '/work'
 ---
 # Welcome
 
