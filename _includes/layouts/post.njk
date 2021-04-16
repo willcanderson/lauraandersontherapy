@@ -13,6 +13,8 @@ section: post
 
   {{ layoutContent | safe }}
 
+  <a href="{{linkURL}}">{{linkText}}</a>
+
   {% if tags %}
     <p>
     {% for tag in tags %}

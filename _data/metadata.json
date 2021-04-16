@@ -1,5 +1,6 @@
 {
-  "title": "Laura Anderson, LCSW",
+  "title": "Laura Anderson, MA, LCSW",
   "description": "I'm a licensed clinical social worker who has helped adults, children, and families with depression, anxiety, loss, mental illness, violence, family discord, food and substance addictions, and relationship problems.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "url": "https://eleventy-netlify-boilerplate.netlify.app",
+  "mailtohref": "mailto:%6c%61%75%72%61%61%6e%64%65%72%73%6f%6e%6c%63%73%77%40%67%6d%61%69%6c%2e%63%6f%6d"
 }
