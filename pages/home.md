@@ -6,21 +6,30 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
-intro:
-  eyebrow: 'Digital Marketing is our'
-  main: 'Bread & Butter'
-  summary: 'Let us help you create the perfect campaign with our multi-faceted team of talented creatives.'
-  buttonText: 'See our work'
-  buttonUrl: '/work'
 ---
-# Welcome
+I'm a licensed clinical social worker who has helped adults, children, and families with depression, anxiety, loss, mental illness, violence, family discord, food and substance addictions, and relationship problems.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+<a href="{{ metadata.mailtohref }}" >Email me</a> or call me at <a href="tel:1-402-289-8262">(402) 289-8262</a> to schedule a free 30-minute consultation.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Read more about the free consultation &darr;
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+## My specialities
 
-Or click the button below to deploy your own copy of this project to Netlify.
+There are several different schools of therapy: psychodynamic, cognitive behavioral, humanistic. I am trained in all of them and tailor my approach individually to each client.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Read more <span class="visually-hidden">about my specialties</span>
+
+## Your consultation
+
+During your consultation, we'll cover:
+
+- What happens in a therapy session
+- How we will monitor improvement together
+- When and how often we will meet
+- Insurance billing and payment schedule
+- What to look for in a therapist, whether or not you decide on me
+
+There is no obligation to continue beyond the first meeting, and if we aren't a good fit I have several colleagues I can recommend.
+
+<a href="{{ metadata.mailtohref }}" >Email me</a> or call me at <a href="tel:1-402-289-8262">(402) 289-8262</a> to schedule a free 30-minute consultation.
+

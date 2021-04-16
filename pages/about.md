@@ -1,33 +1,34 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: Specialties
+metaDescription: I'm a licensed clinical social worker who has helped adults, children, and families with depression, anxiety, loss, mental illness, violence, family discord, food and substance addictions, and relationship problems.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I'm a licensed clinical social worker who has helped adults, children, and families with depression, anxiety, loss, mental illness, violence, family discord, food and substance addictions, and relationship problems.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+## Issues
 
-## Our services
+- Depression
+- Anxiety
+- Grief and loss
+- Mental illness
+- Violence
+- Family discord
+- Food and substance addictions
+- Relationship problems
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Populations
 
-### Blue-sky thinking
+I'm prepared to help nearly anyone, but there are some populations and issues I have more experience with:
+- Individuals who want to work on relationships with family, friends, or professional colleagues
+- Individuals who want to work on health issues like weight loss, addiction, or improving body image perception
+- Couples who want to work together to improve their relationship
+- Teens and young children
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-#### Management frameworks
+## Clinical traditions
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+There are several different schools of therapy: psychodynamic, cognitive behavioral, humanistic. I am trained in all of them and tailor my approach individually to each client.
